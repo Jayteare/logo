@@ -32,7 +32,7 @@ QR & Tracking
 ----------------
 
 
-<img src="http://go.bsidesoc.org/1.qr.png" style="max-width:200px;"/>
+<img src="http://go.bsidesoc.org/1.qr.png" style="max-width:200px;border:0;" width="200" />
 
 
 <img src="https://bsidesoc.org/piwik/piwik.php?id=3&rec=1" />

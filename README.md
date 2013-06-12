@@ -1,8 +1,15 @@
 bSidesOC Logo
 -------------
 
-
 This is the Logo repository for [bSidesOC](http://bsidesoc.org).
+
+
+Our Stylized Bootstrap Logo, and info.
+https://bsidesoc.org/community/about/logo/
+
+Image: 
+https://bsidesoc.org/community/about/logo/logo-bsidesoc/
+
 
 Within this repo are several files.
 [logo-test.html](logo-test.html)
@@ -18,4 +25,14 @@ It is an imported .eps file which was given to us by the main bSides California.
 ![bSidesOC_Logo_Orange_Black.png](bSidesOC_Logo_Orange_Black.png)
 
 [bSidesOC_Logo_Orange_Black.eps](bSidesOC_Logo_Orange_Black.eps)
+
+
+
+QR & Tracking
+----------------
+
+![http://go.bsidesoc.org/1.qr.png](http://go.bsidesoc.org/1.qr.png)
+
+![Tracking Pixel](https://bsidesoc.org/piwik/piwik.php?id=3&rec=1)
+
 

@@ -31,8 +31,11 @@ It is an imported .eps file which was given to us by the main bSides California.
 QR & Tracking
 ----------------
 
+
+<img src="http://go.bsidesoc.org/1.qr.png" style="max-width:200px;"/>
+
 ![http://go.bsidesoc.org/1.qr.png](http://go.bsidesoc.org/1.qr.png)
 
-![Tracking Pixel](https://bsidesoc.org/piwik/piwik.php?id=3&rec=1)
+<img src="https://bsidesoc.org/piwik/piwik.php?id=3&rec=1" />
 
 

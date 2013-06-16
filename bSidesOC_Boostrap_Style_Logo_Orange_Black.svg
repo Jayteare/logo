@@ -23,7 +23,7 @@
    style="enable-background:new"><metadata
      id="metadata8280"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs8278"><clipPath
    clipPathUnits="userSpaceOnUse"
    id="clipPath8290"><path
@@ -102,8 +102,8 @@
      inkscape:window-height="756"
      id="namedview8276"
      showgrid="true"
-     inkscape:zoom="0.9"
-     inkscape:cx="510.19753"
+     inkscape:zoom="0.73"
+     inkscape:cx="538.29727"
      inkscape:cy="51.913616"
      inkscape:window-x="4"
      inkscape:window-y="0"
@@ -317,18 +317,19 @@
      inkscape:label="CITY copy"
      id="g3112"
      inkscape:groupmode="layer"><text
-   transform="matrix(2.3069125,0,0,2.8149147,-582.68777,-598.89634)"
+   transform="matrix(2.5999204,0,0,2.7812459,-653.25973,-596.55093)"
    sodipodi:linespacing="79.000002%"
    id="text3116"
    y="53.284378"
    x="236.72148"
-   style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:79.00000215000000026%;word-spacing:-6px;writing-mode:lr-tb;text-anchor:start;fill:#e36b23;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play Bold;filter:url(#filter3344)"
+   style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:79.00000215%;word-spacing:-6px;writing-mode:lr-tb;text-anchor:start;fill:#e36b23;fill-opacity:1;stroke:none;filter:url(#filter3344);font-family:Play;-inkscape-font-specification:Play Bold"
    xml:space="preserve"><tspan
      style="font-size:76.02986908px;font-weight:bold;text-align:center;line-height:79.00000215%;letter-spacing:1.65282333px;word-spacing:-6px;text-anchor:middle;fill:#ece9d7;fill-opacity:1;-inkscape-font-specification:Play Bold"
      id="tspan3118"
      y="53.284378"
      x="237.5479"
      sodipodi:role="line">bSidesOC</tspan></text>
+
 
 
 </g><g

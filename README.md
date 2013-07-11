@@ -27,11 +27,18 @@ It is an imported .eps file which was given to us by the main bSides California.
 [bSidesOC_Logo_Orange_Black.eps](bSidesOC_Logo_Orange_Black.eps)
 
 
-![bSidesOC_Boostrap_Style_Logo_Orange_Black.svg](bSidesOC_Boostrap_Style_Logo_Orange_Black.svg)
+![bSidesOC_Bootstrap_Style_Logo_Orange_Black.svg](bSidesOC_Bootstrap_Style_Logo_Orange_Black.svg)
 
-![bSidesOC_Boostrap_Style_Logo_Orange_Black.png](bSidesOC_Boostrap_Style_Logo_Orange_Black.png)
+![bSidesOC_Bootstrap_Style_Logo_Orange_Black.png](bSidesOC_Bootstrap_Style_Logo_Orange_Black.png)
 
-[bSidesOC_Boostrap_Style_Logo_Orange_Black.eps](bSidesOC_Boostrap_Style_Logo_Orange_Black.eps)
+[bSidesOC_Bootstrap_Style_Logo_Orange_Black.eps](bSidesOC_Bootstrap_Style_Logo_Orange_Black.eps)
+
+
+![bSidesOC_Bootstrap_Style_Logo_Grayscale.svg](bSidesOC_Bootstrap_Style_Logo_Grayscale.svg)
+
+![bSidesOC_Bootstrap_Style_Logo_Grayscale.png](bSidesOC_Bootstrap_Style_Logo_Grayscale.png)
+
+[bSidesOC_Bootstrap_Style_Logo_Grayscale.eps](bSidesOC_Bootstrap_Style_Logo_Grayscale.eps)
 
 
 ![bSidesOC_Icon_Logo_Orange_Black.svg](bSidesOC_Icon_Logo_Orange_Black.svg)

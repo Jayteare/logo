@@ -16,9 +16,9 @@
    version="1.1"
    inkscape:version="0.48.2 r9819"
    sodipodi:docname="bSidesOC_T-Shirt_Unicorns_Logo_Orange_Black.svg"
-   inkscape:export-filename="/Users/backup/Working_Documents/websites/bsidesoc.org/Logo Stuff/bSidesOC Logos.git/DRAFT_bSidesOC_T-Shirt_Unicorns_Logo_Orange_Black.png"
-   inkscape:export-xdpi="13.5"
-   inkscape:export-ydpi="13.5">
+   inkscape:export-filename="/Users/backup/Working_Documents/websites/bsidesoc.org/Logo Stuff/bSidesOC Logos.git/TO_PRINT_DRAFT_bSidesOC_T-Shirt_Unicorns_Logo_Orange_Black.png"
+   inkscape:export-xdpi="300.00937"
+   inkscape:export-ydpi="300.00937">
   <defs
      id="defs4">
     <clipPath
@@ -101,17 +101,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.22"
-     inkscape:cx="577.18907"
-     inkscape:cy="2534.7786"
+     inkscape:zoom="0.24"
+     inkscape:cx="606.28592"
+     inkscape:cy="2726.9539"
      inkscape:document-units="px"
-     inkscape:current-layer="layer9"
+     inkscape:current-layer="layer6"
      showgrid="false"
      width="2000px"
      inkscape:showpageshadow="true"
      inkscape:window-width="1269"
      inkscape:window-height="693"
-     inkscape:window-x="5"
+     inkscape:window-x="26"
      inkscape:window-y="0"
      inkscape:window-maximized="0" />
   <metadata
@@ -122,7 +122,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -343,7 +343,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="B SIDES SWirl"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <g
        id="g4026"
@@ -515,7 +515,8 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="Text- b Sides"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     style="display:none">
     <flowRoot
        xml:space="preserve"
        id="flowRoot3187"
@@ -544,7 +545,7 @@
   </g>
   <g
      sodipodi:insensitive="true"
-     style="display:none"
+     style="display:inline"
      inkscape:label="B SIDES SWirl copy"
      id="g3101"
      inkscape:groupmode="layer">
